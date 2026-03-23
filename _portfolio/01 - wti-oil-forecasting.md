@@ -90,10 +90,10 @@ Bloomberg DSS (CL1, CL2, Brent, OVX)
 
 ## Repository
 
-[GitHub →](https://github.com/YOUR_USERNAME/wti-oil-forecasting)
+[GitHub →](https://github.com/kena_tuitoek/wti-oil-forecasting)
 
 The repository contains the full pipeline (`oil_forecasting_pipeline.py`), backtest engine (`backtest_wti_futures.py`), configuration (`config.yaml`), and interactive dashboard.
 
 ---
 
-*Research methodology informed by 40+ academic papers from 2024–2026. All results are out-of-sample via walk-forward validation with realistic transaction costs.*
+*All results are out-of-sample via walk-forward validation with realistic transaction costs.*
