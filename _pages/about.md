@@ -1,39 +1,69 @@
 ---
 permalink: /
-title: "Quantitative Research & Machine Learning"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm **Kena Tuitoek**, an MSc Data Science & Public Policy student at UCL with a background in economics. I work at the intersection of **machine learning, causal inference, and economic/financial applications**.
+<div style="max-width: 720px;">
 
-## Portfolio highlights
+<h1 style="font-size: 1.8em; margin-bottom: 0.3em;">Kena Tuitoek</h1>
 
-{% for post in site.portfolio reversed %}
-<div class="portfolio-card" style="margin-bottom: 1.2em; padding: 1em 1.2em; border-left: 3px solid {% if post.accent_color %}{{ post.accent_color }}{% else %}#5B8DEF{% endif %}; background: var(--bg-secondary, rgba(255,255,255,0.02)); border-radius: 0 8px 8px 0;">
-  <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 0.3em;">
-    <a href="{{ post.url }}" style="font-size: 1.1em; font-weight: 600; text-decoration: none;">{{ post.title }}</a>
-    {% if post.status %}<span style="font-size: 0.7em; font-family: monospace; opacity: 0.6; text-transform: uppercase; letter-spacing: 1px;">{{ post.status }}</span>{% endif %}
-  </div>
-  <p style="margin: 0; font-size: 0.88em; opacity: 0.7;">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
-  {% if post.tags.size > 0 %}
-  <div style="margin-top: 0.5em;">
-    {% for tag in post.tags %}<code style="font-size: 0.72em; margin-right: 0.4em; padding: 2px 6px; border-radius: 3px; background: var(--bg-secondary, rgba(255,255,255,0.05));">{{ tag }}</code>{% endfor %}
-  </div>
-  {% endif %}
+<p style="font-size: 1.05em; opacity: 0.85; line-height: 1.7; margin-bottom: 1.5em;">
+I'm an MSc Data Science &amp; Public Policy student at <strong>University College London</strong> with a background in economics. My research sits at the intersection of <strong>systemic risk, financial contagion, and emerging markets</strong> — using machine learning, network analysis, and econometrics to understand how shocks propagate through interconnected financial systems.
+</p>
+
+<p style="font-size: 1.05em; opacity: 0.85; line-height: 1.7; margin-bottom: 1.5em;">
+I'm particularly interested in how <strong>market frictions</strong> — liquidity constraints, information asymmetry, and thin trading — amplify risk transmission in commodity-exporting and frontier economies. My current work combines Bayesian macro-financial modelling, Granger-causality network construction, and gradient boosting methods to build early warning systems for financial stress.
+</p>
+
+<p style="font-size: 0.92em; opacity: 0.65; margin-bottom: 2.5em;">
+Previously, I've worked on gravity models of trade, carbon pricing policy evaluation, and deep learning for limit order books.
+</p>
+
+<hr style="border: none; border-top: 1px solid rgba(255,255,255,0.1); margin-bottom: 2.5em;">
+
+<h2 style="font-size: 1.3em; margin-bottom: 1.2em;">Explore</h2>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.2em; margin-bottom: 2.5em;">
+
+  <a href="/portfolio/" style="display: block; padding: 1.5em 1.3em; border-left: 3px solid #5B8DEF; background: var(--bg-secondary, rgba(255,255,255,0.03)); border-radius: 0 8px 8px 0; text-decoration: none; transition: transform 0.15s ease, box-shadow 0.15s ease;"
+     onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.2)'"
+     onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
+    <span style="font-size: 1.15em; font-weight: 600; display: block; margin-bottom: 0.4em;">Portfolio</span>
+    <span style="font-size: 0.85em; opacity: 0.6; line-height: 1.5;">Quantitative research projects — from network contagion models to macro stress testing and ML pipelines.</span>
+  </a>
+
+  <a href="/research/" style="display: block; padding: 1.5em 1.3em; border-left: 3px solid #4ECDC4; background: var(--bg-secondary, rgba(255,255,255,0.03)); border-radius: 0 8px 8px 0; text-decoration: none; transition: transform 0.15s ease, box-shadow 0.15s ease;"
+     onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.2)'"
+     onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
+    <span style="font-size: 1.15em; font-weight: 600; display: block; margin-bottom: 0.4em;">Research</span>
+    <span style="font-size: 0.85em; opacity: 0.6; line-height: 1.5;">Dissertation work and academic writing on systemic risk, market frictions, and emerging market vulnerabilities.</span>
+  </a>
+
+  <a href="/cv/" style="display: block; padding: 1.5em 1.3em; border-left: 3px solid #F7B731; background: var(--bg-secondary, rgba(255,255,255,0.03)); border-radius: 0 8px 8px 0; text-decoration: none; transition: transform 0.15s ease, box-shadow 0.15s ease;"
+     onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.2)'"
+     onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
+    <span style="font-size: 1.15em; font-weight: 600; display: block; margin-bottom: 0.4em;">CV</span>
+    <span style="font-size: 0.85em; opacity: 0.6; line-height: 1.5;">Education, skills, experience, and technical proficiencies.</span>
+  </a>
+
 </div>
-{% endfor %}
 
-<p style="margin-top: 1.5em;"><a href="/portfolio/" class="btn btn--primary">View all projects →</a></p>
+<hr style="border: none; border-top: 1px solid rgba(255,255,255,0.1); margin-bottom: 2em;">
 
----
+<h2 style="font-size: 1.1em; margin-bottom: 0.8em; opacity: 0.8;">Looking for 2026 opportunities in</h2>
 
-## Looking for 2026 opportunities in
+<ul style="font-size: 0.92em; opacity: 0.65; line-height: 1.8; padding-left: 1.2em; margin-bottom: 1.5em;">
+  <li>Quantitative research &amp; systematic risk roles in finance and tech</li>
+  <li>Machine learning engineering with financial applications</li>
+  <li>Research assistant / pre-doc positions in economics and data science</li>
+</ul>
 
-- Machine learning / quantitative research roles  
-- Systematic & data-driven roles in finance and tech  
-- Research assistant / pre-doc positions in economics and data science  
+<p style="font-size: 0.88em; opacity: 0.6;">
+<strong>Email:</strong> <a href="mailto:noelekena@gmail.com">noelekena@gmail.com</a> · <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kena-tuitoek/">kena-tuitoek</a>
+</p>
 
-**Email:** [noelekena@gmail.com](mailto:noelekena@gmail.com) · **LinkedIn:** [kena-tuitoek](https://www.linkedin.com/in/kena-tuitoek/)
+</div>
