@@ -12,11 +12,11 @@ redirect_from:
 <h1 style="font-size: 1.8em; margin-bottom: 0.3em;">Kena Tuitoek</h1>
 
 <p style="font-size: 1.05em; opacity: 0.85; line-height: 1.7; margin-bottom: 1.5em;">
-I'm an MSc Data Science &amp; Public Policy student at <strong>University College London</strong> with a background in economics. My research sits at the intersection of <strong>systemic risk, financial contagion, and emerging markets</strong> — using machine learning, network analysis, and econometrics to understand how shocks propagate through interconnected financial systems.
+I'm an MSc Data Science &amp; Public Policy student at <strong>University College London</strong> with a background in economics. My research sits at the intersection of <strong>systemic risk, financial contagion, and emerging markets</strong>, using machine learning, network analysis, and econometrics to understand how shocks propagate through interconnected financial systems.
 </p>
 
 <p style="font-size: 1.05em; opacity: 0.85; line-height: 1.7; margin-bottom: 1.5em;">
-I'm particularly interested in how <strong>market frictions</strong> — liquidity constraints, information asymmetry, and thin trading — amplify risk transmission in commodity-exporting and frontier economies. My current work combines Bayesian macro-financial modelling, Granger-causality network construction, and gradient boosting methods to build early warning systems for financial stress.
+My current work focuses on how <strong>market frictions</strong> drive contagion in commodity-exporting and frontier economies. I combine Granger-causality network construction, Bayesian VAR scenario modelling, and gradient boosting to build early warning frameworks that connect microstructure-level frictions (liquidity constraints, information asymmetry, thin trading) to system-wide stress.
 </p>
 
 <p style="font-size: 0.92em; opacity: 0.65; margin-bottom: 2.5em;">
@@ -33,7 +33,7 @@ Previously, I've worked on gravity models of trade, carbon pricing policy evalua
      onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.2)'"
      onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
     <span style="font-size: 1.15em; font-weight: 600; display: block; margin-bottom: 0.4em;">Portfolio</span>
-    <span style="font-size: 0.85em; opacity: 0.6; line-height: 1.5;">Quantitative research projects — from network contagion models to macro stress testing and ML pipelines.</span>
+    <span style="font-size: 0.85em; opacity: 0.6; line-height: 1.5;">Quantitative research projects, from network contagion models to macro stress testing and ML pipelines.</span>
   </a>
 
   <a href="/research/" style="display: block; padding: 1.5em 1.3em; border-left: 3px solid #4ECDC4; background: var(--bg-secondary, rgba(255,255,255,0.03)); border-radius: 0 8px 8px 0; text-decoration: none; transition: transform 0.15s ease, box-shadow 0.15s ease;"
