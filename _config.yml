@@ -6,8 +6,8 @@ title_separator          : "·"
 name                     : &name "Kena Tuitoek"
 description              : &description "Quantitative research portfolio — machine learning, econometrics, and finance"
 url                      : "https://kenatuitoek.github.io"
-baseurl                  : "/kena-tuitoek-portfolio.github.io"
-repository               : "kenatuitoek/kena-tuitoek-portfolio.github.io"
+baseurl                  : ""
+repository               : "kenatuitoek/kenatuitoek.github.io"
 
 # Site Author
 author:
