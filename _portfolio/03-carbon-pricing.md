@@ -61,6 +61,8 @@ $$y_{ipt} = \alpha + \beta \cdot CP_{it} + \theta \cdot HS73_p + \delta \cdot (C
 
 Where $y_{ipt}$ is log export value for product $p \in \{HS72, HS73\}$ from country $i$ in year $t$, $CP_{it}$ is the average compliance carbon price, and $\mu_i$, $\tau_t$ are exporter and year fixed effects. Standard errors clustered at the exporter level throughout.
 
+[Download full report (PDF)](/files/carbon_pricing_steel_exports.pdf) | [R notebook](/files/carbon_pricing_code.ipynb)
+
 The four specifications build progressively:
 
 1. **Pooled OLS** — unconditional correlation
