@@ -3,8 +3,8 @@ title: "NLP Sentiment Pipeline"
 excerpt: "Multi-model sentiment classification on movie reviews with bag-of-words features, unigram vs bigram comparison, and diagnostic evaluation."
 collection: portfolio
 category_label: "ML / NLP"
-status: "In Progress"
-accent_color: "#FFB347"
+status: "Complete"
+accent_color: "#5B8DEF"
 tagline: "Bag-of-Words Sentiment Classification with Model Comparison"
 methods:
   - CountVectorizer (unigram & bigram)
