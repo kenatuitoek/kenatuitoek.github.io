@@ -1,7 +1,6 @@
 ---
 title: "Carbon Pricing and Trade Competitiveness: A Systematic Review"
 collection: research
-paper_type: "Working Paper"
 date: 2025-06-01
 excerpt: "Systematic literature review of the empirical evidence on how carbon pricing mechanisms affect trade flows in energy-intensive sectors, with focus on the EU ETS and CBAM."
 tags:
@@ -17,4 +16,5 @@ This paper systematically reviews the empirical literature on carbon pricing and
 
 ## Status
 
-Complete. Currently being prepared for submission.
+In Progress.
+
