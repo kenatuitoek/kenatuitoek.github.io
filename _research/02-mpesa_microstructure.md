@@ -12,16 +12,16 @@ tags:
 
 ## Abstract
 
-This article explores how households in developing economies manage risk in the absence of complete financial markets. Building on :contentReference[oaicite:0]{index=0} (1995), it distinguishes between ex-ante income smoothing and ex-post consumption smoothing as key coping strategies under uncertainty. While these mechanisms provide partial insurance, they are constrained by limited access to formal credit and risk-sharing institutions.
+This article explores how households in developing economies manage risk in the absence of complete financial markets. Building on Townsend (1995), it distinguishes between ex-ante income smoothing and ex-post consumption smoothing as key coping strategies under uncertainty. While these mechanisms provide partial insurance, they are constrained by limited access to formal credit and risk-sharing institutions.
 
-The paper evaluates whether financial innovation can bridge this gap, focusing on two case studies: :contentReference[oaicite:1]{index=1} in Kenya and microinsurance schemes in Ghana. Evidence from :contentReference[oaicite:2]{index=2} and :contentReference[oaicite:3]{index=3} shows that access to mobile money significantly reduces consumption volatility following income shocks by enabling rapid remittance flows. Similarly, microinsurance participation is associated with reduced reliance on adverse coping strategies, such as cutting food consumption, and supports greater investment in higher-return activities.
+The paper evaluates whether financial innovation can bridge this gap, focusing on two case studies: M-PESA in Kenya and microinsurance schemes in Ghana. Evidence shows that access to mobile money significantly reduces consumption volatility following income shocks by enabling rapid remittance flows. Similarly, microinsurance participation is associated with reduced reliance on adverse coping strategies, such as cutting food consumption, and supports greater investment in higher-return activities.
 
-These findings are interpreted through the lens of the life-cycle theory and the :contentReference[oaicite:4]{index=4}, demonstrating how financial tools enhance households’ ability to smooth consumption over time. The article concludes that financial innovation can partially substitute for missing markets, improving resilience and economic stability in low-income contexts.
+These findings are interpreted through the lens of life-cycle theory and the permanent income hypothesis, demonstrating how financial tools enhance households' ability to smooth consumption over time. The article concludes that financial innovation can partially substitute for missing markets, improving resilience and economic stability in low-income contexts.
 
 ## Key Insights
 
 - **Incomplete markets drive vulnerability**: Households rely on informal mechanisms due to lack of formal insurance and credit.
-- **Mobile money reduces shock impact**: Access to :contentReference[oaicite:5]{index=5} eliminates or significantly reduces consumption drops during crises.
+- **Mobile money reduces shock impact**: Access to M-PESA eliminates or significantly reduces consumption drops during crises.
 - **Microinsurance enables risk-taking**: Insured households are less likely to cut essential consumption and more likely to invest productively.
 - **Network effects matter**: Financial tools expand access to social capital and remittance networks.
 - **Policy dependency**: The effectiveness of microinsurance often relies on government subsidy and institutional support.
@@ -45,7 +45,7 @@ This shifts households closer to the predictions of intertemporal consumption mo
 
 ## Case Evidence
 
-### Mobile Money: :contentReference[oaicite:6]{index=6} (Kenya)
+### Mobile Money: M-PESA (Kenya)
 
 - ~70% financial inclusion by 2011  
 - 8–10% consumption drop for non-users during illness shocks  
@@ -72,7 +72,6 @@ However, limitations remain:
 - Dependence on infrastructure and policy support  
 - Potential unintended effects (e.g., kinship obligations)
 
-
 ## Full Article
 
-👉 [Read the full article here](#)
+👉 [Read the full article here](https://medium.com/@kenatuitoek/innovation-as-insurance-how-m-pesa-and-microinsurance-help-low-income-households-manage-risk-50ac65a7e342)
