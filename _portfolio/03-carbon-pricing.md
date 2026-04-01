@@ -3,8 +3,8 @@ title: "Carbon Pricing & Steel Export Competitiveness"
 excerpt: "Fixed-effects panel regression estimating the impact of carbon pricing on iron and steel exports across 36 countries, with product-level heterogeneity."
 collection: portfolio
 category_label: "Policy / Econometrics"
-status: "In Progress"
-accent_color: "#FF6B6B"
+status: "Complete"
+accent_color: "#5B8DEF"
 tagline: "Carbon Price Elasticity of EITE Exports"
 methods:
   - Fixed-effects OLS (exporter + year FE)
