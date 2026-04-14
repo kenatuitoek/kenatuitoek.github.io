@@ -19,8 +19,8 @@ I'm an MSc Data Science &amp; Public Policy student at <strong>University Colleg
 My current work focuses on how <strong>market frictions</strong> drive contagion in commodity-exporting and frontier economies. I combine Granger-causality network construction, Bayesian VAR scenario modelling, and gradient boosting to build early warning frameworks that connect microstructure-level frictions (liquidity constraints, information asymmetry, thin trading) to system-wide stress.
 </p>
 
-<p style="font-size: 0.92em; opacity: 0.65; margin-bottom: 2.5em;">
-Previously, I've worked on gravity models of trade, carbon pricing policy evaluation, and deep learning for limit order books.
+<p style="font-size: 1.05em; opacity: 0.85; margin-bottom: 2.5em;">
+Previously, I've worked on gravity models of African trade, carbon pricing policy evaluation, and oil price forecasting with geopolitical risk indices.
 </p>
 
 <hr style="border: none; border-top: 1px solid rgba(255,255,255,0.1); margin-bottom: 2.5em;">
@@ -57,9 +57,9 @@ Previously, I've worked on gravity models of trade, carbon pricing policy evalua
 <h2 style="font-size: 1.1em; margin-bottom: 0.8em; opacity: 0.8;">Looking for 2026 opportunities in</h2>
 
 <ul style="font-size: 0.92em; opacity: 0.65; line-height: 1.8; padding-left: 1.2em; margin-bottom: 1.5em;">
-  <li>Quantitative research &amp; systematic risk roles in finance and tech</li>
-  <li>Machine learning engineering with financial applications</li>
-  <li>Research assistant / pre-doc positions in economics and data science</li>
+  <li>Pre-doctoral and research assistant positions in applied economics, development and macro-finance</li>
+  <li>Quantitative research roles in financial stability and systemic risk</li>
+  <li>Machine learning engineering with economics and financial applications</li>
 </ul>
 
 <p style="font-size: 0.88em; opacity: 0.6;">
