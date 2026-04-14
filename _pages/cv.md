@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<a href="/files/CV.pdf" class="btn btn--primary" style="margin-bottom: 1.5em;">Download full CV (PDF)</a>
+<a href="/files/CV_update.pdf" class="btn btn--primary" style="margin-bottom: 1.5em;">Download full CV (PDF)</a>
 
 ---
 
